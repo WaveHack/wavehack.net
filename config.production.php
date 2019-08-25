@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'https://wavehack.net',
+    'baseUrl' => 'https://www.wavehack.net',
 ];
