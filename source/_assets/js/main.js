@@ -5,7 +5,10 @@ window.addEventListener('DOMContentLoaded', () => {
     tippy('.tippy');
 
     document.getElementById('toggle-ssh-key')
-        .addEventListener('click', () => {
+        .addEventListener('click', e => {
+            // Don't scroll to top
+            e.preventDefault();
+
             const el = document.getElementById('ssh-key');
             el.style.display = ((el.style.display === 'none') ? 'block' : 'none');
         });

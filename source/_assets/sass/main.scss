@@ -7,3 +7,22 @@
 @import "~@fortawesome/fontawesome-free/scss/fontawesome";
 @import "~@fortawesome/fontawesome-free/scss/solid";
 @import "~@fortawesome/fontawesome-free/scss/brands";
+
+#page-container {
+    width: 100%;
+}
+
+@media (min-width: 1024px) {
+    #page-container {
+        width: 1024px;
+    }
+}
+
+@media (min-width: 1024px) {
+    #body-background {
+        background-image: url('/assets/images/wavehack_background.png');
+        opacity: 0.05;
+        filter: alpha(opacity=5);
+        z-index: -100;
+    }
+}
