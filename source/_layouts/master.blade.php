@@ -203,8 +203,8 @@
                             OpenDominion
                         </a>
                         <div class="float-right font-normal">
-                            <i class="fab fa-laravel mr-1" style="color: #f05340" title="Built with Laravel"></i>
-                            <i class="fab fa-github" title="Open Source"></i>
+                            <i class="fab fa-laravel mr-1 tippy" style="color: #f05340" data-tippy-content="Built with Laravel"></i>
+                            <i class="fab fa-github tippy" data-tippy-content="Open Source"></i>
                         </div>
                     </div>
                     <p class="text-gray-700 text-sm">
