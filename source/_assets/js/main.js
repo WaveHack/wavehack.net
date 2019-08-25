@@ -1,4 +1,8 @@
+import tippy from 'tippy.js';
+
 window.addEventListener('DOMContentLoaded', () => {
+
+    tippy('.tippy');
 
     document.getElementById('toggle-ssh-key')
         .addEventListener('click', () => {

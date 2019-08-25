@@ -41,7 +41,7 @@
 
         <div class="text-sm">
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #1da1f2">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Twitter" style="background-color: #1da1f2">
                     <i class="fab fa-twitter align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
@@ -52,7 +52,7 @@
             </div>
 
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #738adb">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Discord" style="background-color: #738adb">
                     <i class="fab fa-discord align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
@@ -61,7 +61,7 @@
             </div>
 
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #211f1f">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="GitHub" style="background-color: #211f1f">
                     <i class="fab fa-github align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
@@ -72,7 +72,7 @@
             </div>
 
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #000000">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="PGP Key" style="background-color: #000000">
                     <i class="fas fa-signature align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
@@ -88,7 +88,7 @@
                 </div>
                 <div class="ml-2 self-center">
                     <a href="#" class="text-blue-500" id="toggle-ssh-key">
-                        SSH Pubkey
+                        Public SSH Key
                     </a>
                 </div>
             </div>
@@ -105,7 +105,7 @@
 
         <div class="text-sm">
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #003087">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Playstation Network" style="background-color: #003087">
                     <i class="fab fa-playstation align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
@@ -114,7 +114,7 @@
             </div>
 
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #000000">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Steam" style="background-color: #000000">
                     <i class="fab fa-steam align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
@@ -125,7 +125,7 @@
             </div>
 
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #e60012">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Nintendo Switch" style="background-color: #e60012">
                     <i class="fab fa-nintendo-switch align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center text-xs">
@@ -143,7 +143,7 @@
             </div>--}}
 
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #4d8ad0">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Battle.net" style="background-color: #4d8ad0">
                     <i class="fab fa-battle-net align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
@@ -152,7 +152,7 @@
             </div>
 
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #107c10">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Xbox Live Gamertag" style="background-color: #107c10">
                     <i class="fab fa-xbox align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
