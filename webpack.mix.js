@@ -1,7 +1,7 @@
 const mix = require('laravel-mix');
 const build = require('./tasks/build.js');
 const tailwindcss = require('tailwindcss');
-// todo: purgecss?
+require('laravel-mix-purgecss');
 
 mix.copy(
     'node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid*',
@@ -34,7 +34,13 @@ mix.js('source/_assets/js/main.js', 'js')
         processCssUrls: false,
         postCss: [tailwindcss()],
     })
-    // todo: purgecss?
+    .purgeCss({
+        enabled: true,
+        globs: [
+            path.join(__dirname, 'source/_assets/**/*'),
+            path.join(__dirname, 'source/**/*.blade.php'),
+        ],
+    })
     .version();
 
 if (!mix.inProduction()) {
