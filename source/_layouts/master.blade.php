@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="h-full">
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,7 +19,7 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
     <link rel="stylesheet" href="{{ mix('css/main.css') }}">
 </head>
-<body class="h-full relative bg-gray-100 text-gray-800 font-sans">
+<body class="relative bg-gray-100 text-gray-800 font-sans">
 
 <div id="page-container" class="lg:mx-auto">
     <div class="lg:flex">
