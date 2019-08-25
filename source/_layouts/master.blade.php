@@ -34,10 +34,10 @@
     </div>
 </div>
 
-<div class="flex mt-4 mx-2">
+<div class="flex flex-wrap mt-4 mx-2">
     <div class="px-2 w-1/2">
         <h2 class="text-xl font-bold">Social</h2>
-        <p class="text-xs text-gray-600">Looking for me? I can usually be found on these platforms.</p>
+        <p class="text-xs text-gray-600">Looking for me? I can usually be found on these.</p>
 
         <div class="text-sm">
             <div class="flex mt-2">
@@ -47,6 +47,7 @@
                 <div class="ml-2 self-center">
                     <a href="https://twitter.com/WaveHack" class="text-blue-500">
                         WaveHack
+                        <i class="fas fa-external-link-alt text-gray-400" style="font-size: 0.5rem"></i>
                     </a>
                 </div>
             </div>
@@ -59,7 +60,12 @@
                     Sharqy<span class="text-xs font-thin text-gray-500">#1337</span>
                 </div>
             </div>
+        </div>
 
+        <h2 class="mt-4 text-xl font-bold">Coding</h2>
+        <p class="text-xs text-gray-600">I like coding and coding accessories.</p>
+
+        <div class="text-sm">
             <div class="flex mt-2">
                 <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="GitHub" style="background-color: #211f1f">
                     <i class="fab fa-github align-middle text-white"></i>
@@ -67,23 +73,25 @@
                 <div class="ml-2 self-center">
                     <a href="https://github.com/WaveHack" class="text-blue-500">
                         WaveHack
+                        <i class="fas fa-external-link-alt text-gray-400" style="font-size: 0.5rem"></i>
                     </a>
                 </div>
             </div>
 
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="PGP Key" style="background-color: #000000">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="PGP Key" style="background-color: #003399">
                     <i class="fas fa-signature align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
                     <a href="https://pgp.surfnet.nl/pks/lookup?op=get&search=0xE556A545A7FA4F6E" class="text-blue-500">
                         0xA7FA4F6E
+                        <i class="fas fa-external-link-alt text-gray-400" style="font-size: 0.5rem"></i>
                     </a>
                 </div>
             </div>
 
             <div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #000000">
+                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #f3bd1a">
                     <i class="fas fa-key align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center">
@@ -93,15 +101,13 @@
                 </div>
             </div>
 
-            <div class="flex mt-2 text-xs font-mono break-all" id="ssh-key" style="display: none">
-                ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCl11WmnhPYVZkkXPUbDsPLu/yOTAcmHyY1AMlD3/A6m9v+C4U/Fp4XXfX2KKrh5uu72j/v/SyxG0g7+tOCf7v4LXbLFjs3Flrat20peQ5shaOmrJhwQ66PkvkqqbiOQO7K1YmSHuDlX2VG6FxjF0klADNpxl3m5/+KoORc0/Xz10AxZce35vqyN440w28bItHb7RINX/IVklZw92GceIUkYEjs1dqfTtZFZXBt6CmV6c7qEKAbpxZjAQrrfw3xBMss2lfCFc206jVoSGxQ6b7EFo32Z7TdnnxYlC1mCJDuk1chgnGKoSUsDs4D9l7OmJ6q0okbaeOwiXNL+mqEPtk7 wavehack
-            </div>
+            <div class="flex mt-2 text-xs font-mono break-all" id="ssh-key" style="display: none">ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCl11WmnhPYVZkkXPUbDsPLu/yOTAcmHyY1AMlD3/A6m9v+C4U/Fp4XXfX2KKrh5uu72j/v/SyxG0g7+tOCf7v4LXbLFjs3Flrat20peQ5shaOmrJhwQ66PkvkqqbiOQO7K1YmSHuDlX2VG6FxjF0klADNpxl3m5/+KoORc0/Xz10AxZce35vqyN440w28bItHb7RINX/IVklZw92GceIUkYEjs1dqfTtZFZXBt6CmV6c7qEKAbpxZjAQrrfw3xBMss2lfCFc206jVoSGxQ6b7EFo32Z7TdnnxYlC1mCJDuk1chgnGKoSUsDs4D9l7OmJ6q0okbaeOwiXNL+mqEPtk7 wavehack</div>
         </div>
     </div>
 
     <div class="px-2 w-1/2">
         <h2 class="text-xl font-bold">Gaming</h2>
-        <p class="text-xs text-gray-600">For when you want some floor mopping done.</p>
+        <p class="text-xs text-gray-600">I mostly play on these platforms, in rough order of preference.</p>
 
         <div class="text-sm">
             <div class="flex mt-2">
@@ -120,6 +126,7 @@
                 <div class="ml-2 self-center">
                     <a href="https://steamcommunity.com/id/sharqy" class="text-blue-500">
                         Sharqy
+                        <i class="fas fa-external-link-alt text-gray-400" style="font-size: 0.5rem"></i>
                     </a>
                 </div>
             </div>
@@ -129,18 +136,19 @@
                     <i class="fab fa-nintendo-switch align-middle text-white"></i>
                 </div>
                 <div class="ml-2 self-center text-xs">
-                    SW-1234-5678-9010
+                    SW-7262-9578-1601
                 </div>
             </div>
 
-            {{--<div class="flex mt-2">
-                <div class="w-6 h-6 text-center rounded shadow" style="background-color: #e60012">
-                    <i class="fa fa-gamepad align-middle text-white"></i>
+            <div class="flex mt-2">
+                <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Nintendo 3DS" style="background-color: #e60012">
+                    <div class="inline-block align-middle text-xs text-white tracking-tighter">3DS</div>
+{{--                    <i class="fab fa-nintendo-switch align-middle text-white"></i>--}}
                 </div>
                 <div class="ml-2 self-center text-xs">
-                    1234-5678-9010
+                    0000-0000-0000
                 </div>
-            </div>--}}
+            </div>
 
             <div class="flex mt-2">
                 <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Battle.net" style="background-color: #4d8ad0">
@@ -165,22 +173,23 @@
 
 <div class="mt-4 mx-4">
     <h2 class="text-xl font-bold">Projects</h2>
-    <p class="text-xs text-gray-600">Sometimes I build cool shit. Check it out!</p>
+    <p class="text-xs text-gray-600">Sometimes I build cool shit. Feel free to check it out.</p>
 
     <div class="mt-2">
-
         <div class="mb-4 max-w-sm rounded overflow-hidden shadow-lg">
             <a href="#">
                 <img src="http://placehold.it/512x256" alt="OpenDominion" class="w-full">
                 <div class="p-4">
-                    <div class="mb-2 text-base font-bold">OpenDominion</div>
+                    <div class="mb-2 text-base font-bold">
+                        OpenDominion
+                        <div class="float-right font-normal">
+                            <i class="fab fa-laravel mr-1" style="color: #f05340"></i>
+                            <i class="fab fa-github"></i>
+                        </div>
+                    </div>
                     <p class="text-gray-700 text-sm">
                         A free and online competitive text-based multiplayer strategy game in a medieval fantasy setting.
                     </p>
-                    <div class="text-right">
-                        <i class="fab fa-laravel mr-1" style="color: #f05340"></i>
-                        <i class="fab fa-github"></i>
-                    </div>
                 </div>
             </a>
 
@@ -190,14 +199,16 @@
             <a href="#">
                 <img src="http://placehold.it/512x256" alt="OpenDominion" class="w-full">
                 <div class="p-4">
-                    <div class="mb-2 text-base font-bold">Datavania</div>
+                    <div class="mb-2 text-base font-bold">
+                        Datavania
+                        <div class="float-right font-normal">
+                            <i class="fab fa-laravel mr-1" style="color: #f05340"></i>
+                            <i class="fab fa-github"></i>
+                        </div>
+                    </div>
                     <p class="text-gray-700 text-sm">
                         A Castlevania: Harmony of Despair item and monster database.
                     </p>
-                    <div class="text-right">
-                        <i class="fab fa-laravel mr-1" style="color: #f05340"></i>
-                        <i class="fab fa-github"></i>
-                    </div>
                 </div>
             </a>
         </div>
