@@ -196,19 +196,21 @@
             <div class="mb-4 mx-2 bg-white rounded overflow-hidden shadow-lg sm:w-1/2 lg:w-1/3 sm:self-start">
                 <a href="https://beta.opendominion.net/">
                     <img src="/assets/images/projects/opendominion.png" alt="OpenDominion" class="w-full p-4 bg-gray-200">
-                    <div class="p-4">
-                        <div class="mb-2 text-base font-bold">
-                            OpenDominion
-                            <div class="float-right font-normal">
-                                <i class="fab fa-laravel mr-1" style="color: #f05340" title="Built with Laravel"></i>
-                                <i class="fab fa-github" title="Open Source"></i>
-                            </div>
-                        </div>
-                        <p class="text-gray-700 text-sm">
-                            A free and online competitive text-based multiplayer strategy game in a medieval fantasy setting.
-                        </p>
-                    </div>
                 </a>
+                <div class="p-4">
+                    <div class="mb-2 text-base font-bold">
+                        <a href="https://beta.opendominion.net/">
+                            OpenDominion
+                        </a>
+                        <div class="float-right font-normal">
+                            <i class="fab fa-laravel mr-1" style="color: #f05340" title="Built with Laravel"></i>
+                            <i class="fab fa-github" title="Open Source"></i>
+                        </div>
+                    </div>
+                    <p class="text-gray-700 text-sm">
+                        A free and online competitive text-based multiplayer strategy game in a medieval fantasy setting.
+                    </p>
+                </div>
             </div>
 
             {{--<div class="mb-4 mx-2 bg-white rounded overflow-hidden shadow-lg sm:w-1/2 lg:w-1/3 sm:self-start">
