@@ -2,6 +2,7 @@ const mix = require('laravel-mix');
 const build = require('./tasks/build.js');
 const tailwindcss = require('tailwindcss');
 require('laravel-mix-purgecss');
+const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 
 mix.copy(
     'node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid*',
@@ -35,7 +36,6 @@ mix.js('source/_assets/js/main.js', 'js')
         postCss: [tailwindcss()],
     })
     .purgeCss({
-        enabled: true,
         globs: [
             path.join(__dirname, 'source/_assets/**/*'),
             path.join(__dirname, 'source/**/*.blade.php'),
@@ -45,4 +45,10 @@ mix.js('source/_assets/js/main.js', 'js')
 
 if (!mix.inProduction()) {
     mix.sourceMaps();
+} else {
+    mix.webpackConfig({
+        plugins: [
+            new OptimizeCssAssetsPlugin(),
+        ],
+    });
 }
