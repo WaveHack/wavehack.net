@@ -203,7 +203,7 @@
                 </a>
             </div>
 
-            <div class="mb-4 mx-2 bg-white rounded overflow-hidden shadow-lg sm:w-1/2 lg:w-1/3 sm:self-start">
+            {{--<div class="mb-4 mx-2 bg-white rounded overflow-hidden shadow-lg sm:w-1/2 lg:w-1/3 sm:self-start">
                 <a href="#">
                     <img src="http://placehold.it/512x256" alt="OpenDominion" class="w-full">
                     <div class="p-4">
@@ -219,7 +219,7 @@
                         </p>
                     </div>
                 </a>
-            </div>
+            </div>--}}
         </div>
     </div>
 </div>
