@@ -6,7 +6,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     {{--<meta name="description" content="WaveHack.net">--}}
 
-    {{-- todo: opengraph --}}
+    <meta property="og:title" content="WaveHack.net">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.wavehack.net/assets/images/wavehack_square_bg.png">
+    <meta property="og:url" content="https://www.wavehack.net">
+    <meta property="og:description" content="Software developer, open source enthusiast, Linux lover, Windows user.">
 
     <title>WaveHack.net</title>
 
