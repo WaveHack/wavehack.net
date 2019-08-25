@@ -9,6 +9,10 @@
     <meta property="og:title" content="WaveHack.net">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://www.wavehack.net/assets/images/wavehack_square_bg.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="400">
+    <meta property="og:image:height" content="400">
+    <meta property="og:image:alt" content="Avatar of WaveHack">
     <meta property="og:url" content="https://www.wavehack.net">
     <meta property="og:description" content="Software developer, open source enthusiast, Linux lover, Windows user.">
 
