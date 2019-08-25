@@ -186,7 +186,7 @@
 
         <div class="sm:flex mt-2 lg:mt-4">
             <div class="mb-4 mx-2 bg-white rounded overflow-hidden shadow-lg sm:w-1/2 lg:w-1/3 sm:self-start">
-                <a href="#">
+                <a href="https://beta.opendominion.net/">
                     <img src="/assets/images/projects/opendominion.png" alt="OpenDominion" class="w-full p-4 bg-gray-200">
                     <div class="p-4">
                         <div class="mb-2 text-base font-bold">
@@ -201,7 +201,6 @@
                         </p>
                     </div>
                 </a>
-
             </div>
 
             <div class="mb-4 mx-2 bg-white rounded overflow-hidden shadow-lg sm:w-1/2 lg:w-1/3 sm:self-start">
