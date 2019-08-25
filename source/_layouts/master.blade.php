@@ -18,7 +18,7 @@
 
     <title>WaveHack</title>
 
-    {{-- todo: rel=home/icon, atom+xml? --}}
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
 
     @stack('meta')
 
