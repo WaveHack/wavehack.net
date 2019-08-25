@@ -224,9 +224,7 @@
     </div>
 </div>
 
-<div id="body-background" class="{{--hidden lg:block--}} lg:bg-scroll lg:bg-left-bottom lg:bg-no-repeat lg:bg-contain absolute left-0 bottom-0 w-full h-full">
-    {{--    <img src="/assets/images/wavehack_background.png" alt="Background image">--}}
-</div>
+<div id="body-background" class="lg:bg-scroll lg:bg-left-bottom lg:bg-no-repeat lg:bg-contain absolute left-0 bottom-0 w-full h-full"></div>
 
 {{--@yield('body')--}}
 
