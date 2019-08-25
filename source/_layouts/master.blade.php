@@ -30,7 +30,7 @@
 <body class="relative bg-gray-100 text-gray-800 font-sans">
 
 <div id="page-container" class="lg:mx-auto">
-    <div class="lg:flex lg:mt-6">
+    <div class="lg:flex lg:pt-6">
         <div class="lg:w-1/3">
             <div class="flex mt-4 mx-4 lg:block">
                 <div class="w-1/3 sm:w-1/4 md:w-1/6 lg:w-full">
