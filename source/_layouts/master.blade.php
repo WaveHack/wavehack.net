@@ -39,7 +39,7 @@
                 <div class="w-2/3 sm:w-3/4 md:w-5/6 lg:w-full ml-4 lg:ml-0 lg:mt-2">
                     <h1 class="text-2xl md:text-3xl lg:text-4xl text-red-800 font-bold">
                         WaveHack
-                        <span class="text-sm md:text-base text-gray-500 font-light float-right" title="Pronouns">any/any</span>
+                        <span class="text-sm md:text-base text-gray-500 font-light float-right tippy" data-tippy-content="Pronouns">any/any</span>
                     </h1>
                     <p class="text-sm md:text-base">Software developer, open source enthusiast, Linux lover, Windows user.</p>
                     <p class="text-sm md:text-base hidden sm:block sm:mt-2">I rant about computers, RT dank memes, and build unconventional software.</p>
