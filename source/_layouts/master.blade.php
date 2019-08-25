@@ -16,7 +16,7 @@
     <meta property="og:image:height" content="400">
     <meta property="og:image:alt" content="Avatar of WaveHack">
 
-    <title>WaveHack.net</title>
+    <title>WaveHack</title>
 
     {{-- todo: rel=home/icon, atom+xml? --}}
 
