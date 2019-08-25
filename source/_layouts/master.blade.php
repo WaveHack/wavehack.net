@@ -23,7 +23,7 @@
 
 <div class="flex mt-4 mx-4">
     <div class="w-1/3">
-        <img src="/assets/images/avatar_square.png" alt="WaveHack's Avatar" class="rounded-lg shadow">
+        <img src="/assets/images/wavehack_square_bg.png" alt="WaveHack's Avatar" class="rounded-lg shadow">
     </div>
     <div class="w-2/3 ml-4">
         <h1 class="text-2xl text-red-800 font-bold">
@@ -142,7 +142,7 @@
 
             <div class="flex mt-2">
                 <div class="w-6 h-6 text-center rounded shadow tippy" data-tippy-content="Nintendo 3DS" style="background-color: #e60012">
-                    <div class="inline-block align-middle text-xs text-white tracking-tighter">3DS</div>
+                    <div class="inline-block align-middle text-white tracking-tighter" style="font-size: 0.625rem;">3DS</div>
 {{--                    <i class="fab fa-nintendo-switch align-middle text-white"></i>--}}
                 </div>
                 <div class="ml-2 self-center text-xs">
@@ -178,13 +178,13 @@
     <div class="mt-2">
         <div class="mb-4 max-w-sm rounded overflow-hidden shadow-lg">
             <a href="#">
-                <img src="http://placehold.it/512x256" alt="OpenDominion" class="w-full">
+                <img src="/assets/images/projects/opendominion.png" alt="OpenDominion" class="w-full p-4 bg-gray-200">
                 <div class="p-4">
                     <div class="mb-2 text-base font-bold">
                         OpenDominion
                         <div class="float-right font-normal">
-                            <i class="fab fa-laravel mr-1" style="color: #f05340"></i>
-                            <i class="fab fa-github"></i>
+                            <i class="fab fa-laravel mr-1" style="color: #f05340" title="Built with Laravel"></i>
+                            <i class="fab fa-github" title="Open Source"></i>
                         </div>
                     </div>
                     <p class="text-gray-700 text-sm">
@@ -202,8 +202,8 @@
                     <div class="mb-2 text-base font-bold">
                         Datavania
                         <div class="float-right font-normal">
-                            <i class="fab fa-laravel mr-1" style="color: #f05340"></i>
-                            <i class="fab fa-github"></i>
+                            <i class="fab fa-laravel mr-1" style="color: #f05340" title="Built with Laravel"></i>
+                            <i class="fab fa-github" title="Open Source"></i>
                         </div>
                     </div>
                     <p class="text-gray-700 text-sm">
