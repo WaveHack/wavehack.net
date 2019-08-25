@@ -30,7 +30,7 @@
 <body class="relative bg-gray-100 text-gray-800 font-sans">
 
 <div id="page-container" class="lg:mx-auto">
-    <div class="lg:flex">
+    <div class="lg:flex lg:mt-6">
         <div class="lg:w-1/3">
             <div class="flex mt-4 mx-4 lg:block">
                 <div class="w-1/3 sm:w-1/4 md:w-1/6 lg:w-full">
@@ -186,13 +186,13 @@
         </div>
     </div>
 
-    <div class="mt-4 mx-2">
+    <div class="mt-4 lg:pb-6 mx-2">
         <div class="mx-2">
             <h2 class="text-xl md:text-2xl lg:text-2xl font-bold">Projects</h2>
             <p class="text-xs md:text-base text-gray-600">Sometimes I build cool shit. Feel free to check it out.</p>
         </div>
 
-        <div class="sm:flex mt-2 lg:mt-4">
+        <div class="sm:flex mt-2 lg:mt-4 ">
             <div class="mb-4 mx-2 bg-white rounded overflow-hidden shadow-lg sm:w-1/2 lg:w-1/3 sm:self-start">
                 <a href="https://beta.opendominion.net/">
                     <img src="/assets/images/projects/opendominion.png" alt="OpenDominion" class="w-full p-4 bg-gray-200">
