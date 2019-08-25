@@ -146,14 +146,14 @@
                             </div>
                         </div>
 
-                        <div class="flex mt-2 lg:mt-4">
+                        {{--<div class="flex mt-2 lg:mt-4">
                             <div class="w-6 h-6 lg:w-8 lg:h-8 text-center rounded shadow tippy" data-tippy-content="Nintendo 3DS" style="background-color: #e60012">
                                 <div class="inline-block align-middle text-white tracking-tighter" style="font-size: 0.625rem;">3DS</div>
                             </div>
                             <div class="ml-2 self-center text-xs md:text-base">
                                 0000-0000-0000
                             </div>
-                        </div>
+                        </div>--}}
 
                         <div class="flex mt-2 lg:mt-4">
                             <div class="w-6 h-6 lg:w-8 lg:h-8 text-center rounded shadow tippy" data-tippy-content="Battle.net" style="background-color: #4d8ad0">
