@@ -24,7 +24,7 @@
 
     <link rel="stylesheet" href="{{ mix('css/main.css') }}">
 </head>
-<body class="relative h-full bg-gray-100 text-gray-800 font-sans">
+<body class="relative h-full bg-gray-100 text-gray-800 antialiased font-sans">
 
 @yield('body')
 
