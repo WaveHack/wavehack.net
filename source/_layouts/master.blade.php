@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-full">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -24,7 +24,7 @@
 
     <link rel="stylesheet" href="{{ mix('css/main.css') }}">
 </head>
-<body class="relative bg-gray-100 text-gray-800 font-sans">
+<body class="relative h-full bg-gray-100 text-gray-800 font-sans">
 
 @yield('body')
 
