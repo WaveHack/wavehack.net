@@ -5,7 +5,14 @@ module.exports = {
         'source/**/*.html',
     ],
     theme: {
-        extend: {},
+        extend: {
+            fontFamily: {
+                'sans': [
+                    'Nunito',
+                    'sans-serif'
+                ],
+            }
+        },
     },
     variants: {
         extend: {},

@@ -11,7 +11,7 @@
                     <div class="w-2/3 sm:w-3/4 md:w-5/6 lg:w-full ml-4 lg:ml-0 lg:mt-2">
                         <h1 class="text-2xl md:text-3xl lg:text-4xl text-red-800 font-bold">
                             WaveHack
-                            <span class="text-sm md:text-base text-gray-500 font-light float-right tippy" data-tippy-content="Pronouns">any/any</span>
+                            <span class="text-sm font-normal md:text-base text-gray-500 float-right tippy" data-tippy-content="Pronouns">any/any</span>
                         </h1>
                         <p class="text-sm md:text-base">Software developer, video gamer, dank meme connoisseur.</p>
                         <p class="text-sm md:text-base hidden sm:block sm:mt-2">I rant about computers, RT dank memes, and build unconventional software.</p>
@@ -43,7 +43,7 @@
                                     <i class="fab fa-discord align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
-                                    Sharqy<span class="text-xs md:text-sm lg:text-base font-thin text-gray-500">#1337</span>
+                                    Sharqy<span class="text-xs md:text-sm lg:text-base text-gray-500">#1337</span>
                                 </div>
                             </div>
                         </div>
@@ -166,7 +166,7 @@
                                     <i class="fab fa-battle-net align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
-                                    Sharqy<span class="text-xs md:text-sm lg:text-base font-thin text-gray-500">#2639</span>
+                                    Sharqy<span class="text-xs md:text-sm lg:text-base text-gray-500">#2639</span>
                                 </div>
                             </div>
 
@@ -196,12 +196,12 @@
                         <img src="/assets/images/projects/opendominion.png" alt="OpenDominion" class="w-full p-4 bg-gray-200">
                     </a>
                     <div class="p-4">
-                        <div class="mb-2 text-base font-bold">
+                        <div class="mb-2 text-base">
                             <a href="https://www.opendominion.net/">
-                                OpenDominion
-                                <small class="ml-1 text-gray-500">2013 - 2020</small>
+                                <span class="font-bold">OpenDominion</span>
                             </a>
-                            <div class="float-right font-normal">
+                            <div class="float-right">
+                                <small class="mr-1 text-gray-500">2013 - 2020</small>
                                 <i class="fab fa-laravel mr-1 tippy" style="color: #f05340" data-tippy-content="Built with Laravel"></i>
                                 <i class="fab fa-github tippy" data-tippy-content="Open Source"></i>
                             </div>
