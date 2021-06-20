@@ -78,7 +78,7 @@
 
                             <div class="flex mt-2 lg:mt-4">
                                 <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Public SSH Key" style="background-color: #f3bd1a">
-                                    <i class="fas fa-key align-middle text-white md:text-sm lg:text-lg"></i>
+                                    <i class="fas fa-key align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
                                     <a href="#" class="text-blue-500" id="toggle-ssh-key">
@@ -98,7 +98,7 @@
 
                             <div class="flex mt-2 lg:mt-4">
                                 <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Certificate Authority" style="background-color: #4bb543">
-                                    <i class="fas fa-lock align-middle text-white md:text-sm lg:text-lg"></i>
+                                    <i class="fas fa-lock align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
                                     <a href="#" class="text-blue-500" id="toggle-ca">
@@ -124,7 +124,7 @@
                         <div class="text-sm md:text-base lg:text-lg">
                             <div class="flex mt-2 lg:mt-4">
                                 <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Playstation Network" style="background-color: #003087">
-                                    <i class="fab fa-playstation align-middle text-white md:text-sm lg:text-lg"></i>
+                                    <i class="fab fa-playstation align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
                                     WaveHack
@@ -133,7 +133,7 @@
 
                             <div class="flex mt-2 lg:mt-4">
                                 <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Steam" style="background-color: #000000">
-                                    <i class="fab fa-steam align-middle text-white md:text-sm lg:text-lg"></i>
+                                    <i class="fab fa-steam align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
                                     <a href="https://steamcommunity.com/id/sharqy" class="text-blue-500">
@@ -145,7 +145,7 @@
 
                             <div class="flex mt-2 lg:mt-4">
                                 <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Nintendo Switch" style="background-color: #e60012">
-                                    <i class="fab fa-nintendo-switch align-middle text-white md:text-sm lg:text-lg"></i>
+                                    <i class="fab fa-nintendo-switch align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center text-xs md:text-base">
                                     SW-7262-9578-1601
@@ -154,7 +154,7 @@
 
                             {{--<div class="flex mt-2 lg:mt-4">
                                 <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Nintendo 3DS" style="background-color: #e60012">
-                                    <div class="inline-block align-middle text-white tracking-tighter" style="font-size: 0.625rem;">3DS</div>
+                                    <div class="inline-block align-middle text-white pt-1 tracking-tighter" style="font-size: 0.625rem;">3DS</div>
                                 </div>
                                 <div class="ml-2 self-center text-xs md:text-base">
                                     0000-0000-0000
@@ -163,7 +163,7 @@
 
                             <div class="flex mt-2 lg:mt-4">
                                 <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Battle.net" style="background-color: #4d8ad0">
-                                    <i class="fab fa-battle-net align-middle text-white md:text-sm lg:text-lg"></i>
+                                    <i class="fab fa-battle-net align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
                                     Sharqy<span class="text-xs md:text-sm lg:text-base font-thin text-gray-500">#2639</span>
@@ -172,7 +172,7 @@
 
                             <div class="flex mt-2 lg:mt-4">
                                 <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Xbox Live Gamertag" style="background-color: #107c10">
-                                    <i class="fab fa-xbox align-middle text-white md:text-sm lg:text-lg"></i>
+                                    <i class="fab fa-xbox align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
                                     WaveHack
