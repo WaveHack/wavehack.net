@@ -154,7 +154,7 @@
 
                             {{--<div class="flex mt-2 lg:mt-4">
                                 <div class="flex flex-wrap justify-center content-center w-6 h-6 lg:w-8 lg:h-8 rounded shadow tippy" data-tippy-content="Nintendo 3DS" style="background-color: #e60012">
-                                    <div class="inline-block align-middle text-white pt-1 tracking-tighter" style="font-size: 0.625rem;">3DS</div>
+                                    <div class="inline-block align-middle text-white pt-1 tracking-tighter" style="font-size: 0.75rem;">3DS</div>
                                 </div>
                                 <div class="ml-2 self-center text-xs md:text-base">
                                     0000-0000-0000
@@ -190,7 +190,7 @@
                 <p class="text-xs md:text-base text-gray-600">Sometimes I build cool shit. Feel free to check it out.</p>
             </div>
 
-            <div class="sm:flex mt-2 lg:mt-4 ">
+            <div class="sm:flex mt-2 lg:mt-4">
                 <div class="mb-4 mx-2 bg-white rounded overflow-hidden shadow-lg sm:w-1/2 lg:w-1/3 sm:self-start">
                     <a href="https://www.opendominion.net/">
                         <img src="/assets/images/projects/opendominion.png" alt="OpenDominion" class="w-full p-4 bg-gray-200">
@@ -211,24 +211,6 @@
                         </p>
                     </div>
                 </div>
-
-                {{--<div class="mb-4 mx-2 bg-white rounded overflow-hidden shadow-lg sm:w-1/2 lg:w-1/3 sm:self-start">
-                    <a href="#">
-                        <img src="http://placehold.it/512x256" alt="OpenDominion" class="w-full">
-                        <div class="p-4">
-                            <div class="mb-2 text-base font-bold">
-                                Datavania
-                                <div class="float-right font-normal">
-                                    <i class="fab fa-laravel mr-1" style="color: #f05340" title="Built with Laravel"></i>
-                                    <i class="fab fa-github" title="Open Source"></i>
-                                </div>
-                            </div>
-                            <p class="text-gray-700 text-sm">
-                                A Castlevania: Harmony of Despair item and monster database.
-                            </p>
-                        </div>
-                    </a>
-                </div>--}}
             </div>
         </div>
     </div>
