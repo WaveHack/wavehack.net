@@ -82,12 +82,44 @@
                                 </div>
                                 <div class="ml-2 self-center">
                                     <a href="#" class="text-blue-500" id="toggle-ssh-key">
-                                        Public Key
+                                        SSH
                                     </a>
                                 </div>
                             </div>
-
                             <div class="flex mt-2 text-xs font-mono break-all" id="ssh-key" style="display: none">ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCl11WmnhPYVZkkXPUbDsPLu/yOTAcmHyY1AMlD3/A6m9v+C4U/Fp4XXfX2KKrh5uu72j/v/SyxG0g7+tOCf7v4LXbLFjs3Flrat20peQ5shaOmrJhwQ66PkvkqqbiOQO7K1YmSHuDlX2VG6FxjF0klADNpxl3m5/+KoORc0/Xz10AxZce35vqyN440w28bItHb7RINX/IVklZw92GceIUkYEjs1dqfTtZFZXBt6CmV6c7qEKAbpxZjAQrrfw3xBMss2lfCFc206jVoSGxQ6b7EFo32Z7TdnnxYlC1mCJDuk1chgnGKoSUsDs4D9l7OmJ6q0okbaeOwiXNL+mqEPtk7 wavehack</div>
+
+                            <div class="flex mt-2 lg:mt-4">
+                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Certificate Authority" style="background-color: #f3bd1a">
+                                    <i class="fas fa-lock align-middle text-white md:text-sm lg:text-lg lg:pt-1"></i>
+                                </div>
+                                <div class="ml-2 self-center">
+                                    <a href="#" class="text-blue-500" id="toggle-ca">
+                                        CA
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="flex mt-2 text-xs font-mono whitespace-pre-line" id="ca" style="display: none">-----BEGIN CERTIFICATE-----
+                                MIIDezCCAmOgAwIBAgIUd+hnJ0gQhwLYyKAPwCNqJIhNe5QwDQYJKoZIhvcNAQEL
+                                BQAwTTEVMBMGA1UECgwMV2F2ZUhhY2submV0MREwDwYDVQQDDAhXYXZlSGFjazEh
+                                MB8GCSqGSIb3DQEJARYSZW1haWxAd2F2ZWhhY2submV0MB4XDTIxMDYyMDIxMTQy
+                                MloXDTIyMDYyMDIxMTQyMlowTTEVMBMGA1UECgwMV2F2ZUhhY2submV0MREwDwYD
+                                VQQDDAhXYXZlSGFjazEhMB8GCSqGSIb3DQEJARYSZW1haWxAd2F2ZWhhY2submV0
+                                MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Wdr4K8SCUEbouow9162
+                                1HfqJYyE4CvaqqlNRvTlzM1B64jHOpbC+fzu2iGHAy2bZZVsKfgCrUTVH5pgw4lD
+                                Vs0KczX+V836ji113qfpTX+ZjwwA9YXLCTlR8O+uzMZ5femzvuEMyO8McRdvKDdy
+                                nQ0OSwDPw/+pM/Btu2GvAFA9YCCveG5BcltOU4uUvh9VJI6GpyKWAySmvFa6ad12
+                                aajCajGKKf3LcLU00a47EmgHF4Adq5aDDQhLRzv63g8hitviwkpM2NajIBiVbJ6q
+                                FITvNII0P0RHVvhwlSwjydtrD6m7+5qZYwzmBYCYZ2IWdbbWoFL+h8RC8mI1QD03
+                                zwIDAQABo1MwUTAdBgNVHQ4EFgQUegmJ28xyQqieUNeaL/0u+1rsDnwwHwYDVR0j
+                                BBgwFoAUegmJ28xyQqieUNeaL/0u+1rsDnwwDwYDVR0TAQH/BAUwAwEB/zANBgkq
+                                hkiG9w0BAQsFAAOCAQEAtqU5UiEH7A9OXpmGgL5PihL3BHzhEcMWy0Nb+w1zuFEJ
+                                pTJRC+/NZkdWxSmrwpLCaUcNntoBhHhvV/9m101ZCkt1bnKTqPhlAhhkY972JoEH
+                                4kBcMOB2oxvPhrNGsBIfS7/khfPHjN11CFWR1upzoOFLpkzWMXiaX2yV+dS/Z849
+                                aRlRFW6f4jdp7ZNGQjfqlkgCsa5cSpF1huTQiUDb3f4Tij69QISkpOzOITuhlQJ4
+                                8vva8k3ASyvfrQ9m4TAnxRhHDC6Vd4XJgIiK68LEwDfZHc1HeFLYUJl2Z8zNOlc7
+                                25D3EKtdwJK0KGiD/zqbXSx1ow7soL6TPvg3praRrA==
+                                -----END CERTIFICATE-----
+                            </div>
                         </div>
                     </div>
 
