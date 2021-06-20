@@ -206,7 +206,7 @@
         </div>
     </div>
 
-    <div id="body-background" class="lg:bg-scroll lg:bg-left-bottom lg:bg-no-repeat lg:bg-contain absolute left-0 bottom-0 w-full h-full"></div>
+    <div id="body-background" class="absolute left-0 bottom-0 w-full h-full lg:bg-fixed lg:bg-left-bottom lg:bg-no-repeat lg:bg-contain"></div>
 
     <div class="hidden lg:block">
         <a href="https://github.com/WaveHack/wavehack.net" class="github-corner" aria-label="View source on GitHub">
