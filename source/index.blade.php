@@ -27,8 +27,8 @@
 
                         <div class="text-sm md:text-base lg:text-lg">
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Twitter" style="background-color: #1da1f2">
-                                    <i class="fab fa-twitter align-middle text-white"></i>
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Twitter" style="background-color: #1da1f2">
+                                    <i class="fab fa-twitter text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
                                     <a href="https://twitter.com/WaveHack" class="text-blue-500">
@@ -39,7 +39,7 @@
                             </div>
 
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Discord" style="background-color: #738adb">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Discord" style="background-color: #738adb">
                                     <i class="fab fa-discord align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
@@ -53,7 +53,7 @@
 
                         <div class="text-sm md:text-base lg:text-lg">
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="GitHub" style="background-color: #211f1f">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="GitHub" style="background-color: #211f1f">
                                     <i class="fab fa-github align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
@@ -65,7 +65,7 @@
                             </div>
 
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="PGP Key" style="background-color: #003399">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="PGP Key" style="background-color: #003399">
                                     <i class="fas fa-signature align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
@@ -77,7 +77,7 @@
                             </div>
 
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Public SSH Key" style="background-color: #f3bd1a">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Public SSH Key" style="background-color: #f3bd1a">
                                     <i class="fas fa-key align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
@@ -97,7 +97,7 @@
 
 
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Certificate Authority" style="background-color: #4bb543">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Certificate Authority" style="background-color: #4bb543">
                                     <i class="fas fa-lock align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
@@ -123,7 +123,7 @@
 
                         <div class="text-sm md:text-base lg:text-lg">
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Playstation Network" style="background-color: #003087">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Playstation Network" style="background-color: #003087">
                                     <i class="fab fa-playstation align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
@@ -132,7 +132,7 @@
                             </div>
 
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Steam" style="background-color: #000000">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Steam" style="background-color: #000000">
                                     <i class="fab fa-steam align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
@@ -144,7 +144,7 @@
                             </div>
 
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Nintendo Switch" style="background-color: #e60012">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Nintendo Switch" style="background-color: #e60012">
                                     <i class="fab fa-nintendo-switch align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center text-xs md:text-base">
@@ -153,7 +153,7 @@
                             </div>
 
                             {{--<div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Nintendo 3DS" style="background-color: #e60012">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Nintendo 3DS" style="background-color: #e60012">
                                     <div class="inline-block align-middle text-white pt-1 tracking-tighter" style="font-size: 0.625rem;">3DS</div>
                                 </div>
                                 <div class="ml-2 self-center text-xs md:text-base">
@@ -162,7 +162,7 @@
                             </div>--}}
 
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Battle.net" style="background-color: #4d8ad0">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Battle.net" style="background-color: #4d8ad0">
                                     <i class="fab fa-battle-net align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
@@ -171,7 +171,7 @@
                             </div>
 
                             <div class="flex mt-2 lg:mt-4">
-                                <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Xbox Live Gamertag" style="background-color: #107c10">
+                                <div class="flex flex-wrap justify-center content-center w-8 h-8 rounded shadow tippy" data-tippy-content="Xbox Live Gamertag" style="background-color: #107c10">
                                     <i class="fab fa-xbox align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
