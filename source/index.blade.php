@@ -112,7 +112,7 @@
                                         <i class="fas fa-xs fa-download"></i> Download CA
                                     </a>
                                 </div>
-                                <div id="ca-content" class="text-xs font-mono whitespace-pre-line">{{ file_get_contents(__DIR__ . '/../source/wavehack.crt') }}</div>
+                                <div id="ca-content" class="text-xs font-mono whitespace-pre">{{ file_get_contents(__DIR__ . '/../source/wavehack.crt') }}</div>
                             </div>
                         </div>
                     </div>
