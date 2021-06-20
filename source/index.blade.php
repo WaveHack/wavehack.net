@@ -199,6 +199,7 @@
                         <div class="mb-2 text-base font-bold">
                             <a href="https://beta.opendominion.net/">
                                 OpenDominion
+                                <small class="ml-1 text-gray-500">2013 - 2020</small>
                             </a>
                             <div class="float-right font-normal">
                                 <i class="fab fa-laravel mr-1 tippy" style="color: #f05340" data-tippy-content="Built with Laravel"></i>
