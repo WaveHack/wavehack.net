@@ -13,7 +13,7 @@
                             WaveHack
                             <span class="text-sm md:text-base text-gray-500 font-light float-right tippy" data-tippy-content="Pronouns">any/any</span>
                         </h1>
-                        <p class="text-sm md:text-base">Software developer, open source enthusiast, Linux lover, Windows user.</p>
+                        <p class="text-sm md:text-base">Software developer, video gamer, dank meme connoisseur.</p>
                         <p class="text-sm md:text-base hidden sm:block sm:mt-2">I rant about computers, RT dank memes, and build unconventional software.</p>
                     </div>
                 </div>

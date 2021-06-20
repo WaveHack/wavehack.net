@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="Software developer, open source enthusiast, Linux lover, Windows user.">
+    <meta name="description" content="Software developer, video gamer, dank meme connoisseur.">
 
     <meta property="og:url" content="https://www.wavehack.net">
     <meta property="og:type" content="website">
     <meta property="og:title" content="WaveHack">
-    <meta property="og:description" content="Software developer, open source enthusiast, Linux lover, Windows user.">
+    <meta property="og:description" content="Software developer, video gamer, dank meme connoisseur.">
     <meta property="og:image" content="https://www.wavehack.net/assets/images/wavehack_square_bg.png">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="400">
