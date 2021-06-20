@@ -33,7 +33,7 @@
                                 <div class="ml-2 self-center">
                                     <a href="https://twitter.com/WaveHack" class="text-blue-500">
                                         WaveHack
-                                        <i class="fas fa-external-link-alt align-top text-gray-400" style="font-size: 0.5rem"></i>
+                                        <i class="fas fa-external-link-alt align-top pt-1 text-gray-300" style="font-size: 0.75rem"></i>
                                     </a>
                                 </div>
                             </div>
@@ -59,7 +59,7 @@
                                 <div class="ml-2 self-center">
                                     <a href="https://github.com/WaveHack" class="text-blue-500">
                                         WaveHack
-                                        <i class="fas fa-external-link-alt align-top text-gray-400" style="font-size: 0.5rem"></i>
+                                        <i class="fas fa-external-link-alt align-top pt-1 text-gray-300" style="font-size: 0.75rem"></i>
                                     </a>
                                 </div>
                             </div>
@@ -71,7 +71,7 @@
                                 <div class="ml-2 self-center">
                                     <a href="https://pgp.surfnet.nl/pks/lookup?op=get&search=0xE556A545A7FA4F6E" class="text-blue-500">
                                         0xA7FA4F6E
-                                        <i class="fas fa-external-link-alt align-top text-gray-400" style="font-size: 0.5rem"></i>
+                                        <i class="fas fa-external-link-alt align-top pt-1 text-gray-300" style="font-size: 0.75rem"></i>
                                     </a>
                                 </div>
                             </div>
@@ -138,7 +138,7 @@
                                 <div class="ml-2 self-center">
                                     <a href="https://steamcommunity.com/id/sharqy" class="text-blue-500">
                                         Sharqy
-                                        <i class="fas fa-external-link-alt align-top text-gray-400" style="font-size: 0.5rem"></i>
+                                        <i class="fas fa-external-link-alt align-top pt-1 text-gray-300" style="font-size: 0.75rem"></i>
                                     </a>
                                 </div>
                             </div>
