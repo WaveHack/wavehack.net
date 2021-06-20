@@ -13,12 +13,12 @@ window.addEventListener('DOMContentLoaded', () => {
             el.style.display = ((el.style.display === 'none') ? 'block' : 'none');
         });
 
-    document.getElementById('ssh-key')
+    document.getElementById('ssh-key-content')
         .addEventListener('click', () => {
             const selection = window.getSelection();
             const range = document.createRange();
 
-            range.selectNodeContents(document.getElementById('ssh-key'));
+            range.selectNodeContents(document.getElementById('ssh-key-content'));
             selection.removeAllRanges();
             selection.addRange(range);
         });

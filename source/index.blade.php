@@ -86,7 +86,15 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="flex mt-2 text-xs font-mono break-all" id="ssh-key" style="display: none">ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCl11WmnhPYVZkkXPUbDsPLu/yOTAcmHyY1AMlD3/A6m9v+C4U/Fp4XXfX2KKrh5uu72j/v/SyxG0g7+tOCf7v4LXbLFjs3Flrat20peQ5shaOmrJhwQ66PkvkqqbiOQO7K1YmSHuDlX2VG6FxjF0klADNpxl3m5/+KoORc0/Xz10AxZce35vqyN440w28bItHb7RINX/IVklZw92GceIUkYEjs1dqfTtZFZXBt6CmV6c7qEKAbpxZjAQrrfw3xBMss2lfCFc206jVoSGxQ6b7EFo32Z7TdnnxYlC1mCJDuk1chgnGKoSUsDs4D9l7OmJ6q0okbaeOwiXNL+mqEPtk7 wavehack</div>
+                            <div class="flex mt-2" id="ssh-key" style="display: none">
+                                <div class="my-2">
+                                    <a href="/wavehack.pub" class="text-gray-600">
+                                        <i class="fas fa-xs fa-download"></i> Download SSH Key
+                                    </a>
+                                </div>
+                                <div id="ssh-key-content" class="text-xs font-mono break-all">{{ file_get_contents(__DIR__ . '/../source/wavehack.pub') }}</div>
+                            </div>
+
 
                             <div class="flex mt-2 lg:mt-4">
                                 <div class="w-6 h-6 lg:w-8 lg:h-8 md:text-sm lg:text-lg text-center rounded shadow tippy" data-tippy-content="Certificate Authority" style="background-color: #4bb543">
