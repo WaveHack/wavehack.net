@@ -32,12 +32,12 @@ window.addEventListener('DOMContentLoaded', () => {
             el.style.display = ((el.style.display === 'none') ? 'block' : 'none');
         });
 
-    document.getElementById('ca-contents')
+    document.getElementById('ca-content')
         .addEventListener('click', () => {
             const selection = window.getSelection();
             const range = document.createRange();
 
-            range.selectNodeContents(document.getElementById('ca-contents'));
+            range.selectNodeContents(document.getElementById('ca-content'));
             selection.removeAllRanges();
             selection.addRange(range);
         });
