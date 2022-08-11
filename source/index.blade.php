@@ -43,7 +43,7 @@
                                     <i class="fab fa-discord align-middle text-white"></i>
                                 </div>
                                 <div class="ml-2 self-center">
-                                    Sharqy<span class="text-xs md:text-sm lg:text-base text-gray-500">#1337</span>
+                                    Sharqy<span class="text-xs md:text-sm lg:text-base text-gray-500">#6160</span>
                                 </div>
                             </div>
                         </div>
